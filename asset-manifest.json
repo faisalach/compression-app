@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/compression-app/static/css/main.f855e6bc.css",
+    "main.js": "/compression-app/static/js/main.8a03a2ae.js",
+    "static/js/453.c9fa33d3.chunk.js": "/compression-app/static/js/453.c9fa33d3.chunk.js",
+    "static/media/logo.svg": "/compression-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/compression-app/index.html",
+    "main.f855e6bc.css.map": "/compression-app/static/css/main.f855e6bc.css.map",
+    "main.8a03a2ae.js.map": "/compression-app/static/js/main.8a03a2ae.js.map",
+    "453.c9fa33d3.chunk.js.map": "/compression-app/static/js/453.c9fa33d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8a03a2ae.js"
+  ]
+}
